@@ -17,7 +17,7 @@ _Otro ejemplo de texto en itálica_
 **Ejemplo de texto en negrita**  
 __Otro ejemplo de texto en negrita__
 
-##Ejemplo negrita e itálica
+## Ejemplo negrita e itálica
 ***Ejemplo negrita e itálica***  
 *__Otro ejemplo negrita e itálica__*
 
