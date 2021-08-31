@@ -10,8 +10,7 @@
 ###### Encabezado de nivel 6
 
 ## Texto en itálica
-*Ejemplo de texto en itálica*
-
+*Ejemplo de texto en itálica*  
 _Otro ejemplo de texto en itálica_
 
 # Mi_primer_repositorio
