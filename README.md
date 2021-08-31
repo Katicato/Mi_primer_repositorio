@@ -31,6 +31,19 @@ __Otro ejemplo de texto en negrita__
 ## Imágenes
 ![](https://images.unsplash.com/photo-1529429617124-95b109e86bb8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80)
 
+## Lista numeradas
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+
+## Lista no numeradas
+* Elemento A  
+* Elemento B  
+* Elemento C  
+    * Elemento a  
+    * Elemento b  
+    * Elemento c  
+* Elemento D  
 
 # Mi_primer_repositorio
 Mi primer repositorio
