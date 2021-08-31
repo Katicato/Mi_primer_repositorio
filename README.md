@@ -13,5 +13,9 @@
 *Ejemplo de texto en itálica*  
 _Otro ejemplo de texto en itálica_
 
+## Texto en negrita
+**Ejemplo de texto en negrita**  
+__Otro ejemplo de texto en negrita__
+
 # Mi_primer_repositorio
 Mi primer repositorio
