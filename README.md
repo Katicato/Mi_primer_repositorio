@@ -22,7 +22,7 @@ __Otro ejemplo de texto en negrita__
 *__Otro ejemplo negrita e itálica__*
 
 ## Citas textuales
-> *"En un lugar de La Mancha..."*
+> *"En un lugar de La Mancha..."*  
 > *"de cuyo nombre no quiero acordarme"*
 
 # Mi_primer_repositorio
