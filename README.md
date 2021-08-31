@@ -25,5 +25,8 @@ __Otro ejemplo de texto en negrita__
 > *"En un lugar de La Mancha..."*  
 > *"de cuyo nombre no quiero acordarme"*
 
+## Enlaces
+[Enlace a la página del Instituto Meteorológico Nacional (IMN)](https://www.imn.ac.cr/web/imn/inicio)
+
 # Mi_primer_repositorio
 Mi primer repositorio
