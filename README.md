@@ -28,5 +28,9 @@ __Otro ejemplo de texto en negrita__
 ## Enlaces
 [Enlace a la página del Instituto Meteorológico Nacional (IMN)](https://www.imn.ac.cr/web/imn/inicio)
 
+## Imágenes
+![](https://images.unsplash.com/photo-1529429617124-95b109e86bb8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80)
+
+
 # Mi_primer_repositorio
 Mi primer repositorio
